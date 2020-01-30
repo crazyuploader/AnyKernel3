@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=PrivateKangerooX by crazyuploader
+kernel.string=PrivateKernel by crazyuploader
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
