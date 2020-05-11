@@ -11,6 +11,6 @@ git config user.email "49350241+crazyuploader@users.noreply.github.com"
 git config user.name "crazyuploader"
 git merge FETCH_HEAD
 echo ""
-git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GITHUB_REF}" HEAD:master
+git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GITHUB_REF}" HEAD:master --force
 echo ""
 echo "Done"
