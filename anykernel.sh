@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=PrivateKunnel by crazyuploader
+kernel.string=CI Kunnel by crazyuploader
 do.devicecheck=1
 do.modules=0
 do.systemless=1
